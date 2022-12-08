@@ -1,4 +1,4 @@
-# Howest - Network Infrastructure
+# Howest - Network Infrastructure Security
 
 This repo serves to make the ``internet-connection.sh`` available publicly.
 
